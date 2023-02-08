@@ -40,6 +40,6 @@ comp1.buy("Macbok Air 2013")
 
 comp1.buy("Macbook Air 2019")
 
-comp1.sell("abc")
+comp1.sell("abcd")
 
 comp1.print_inventory()
